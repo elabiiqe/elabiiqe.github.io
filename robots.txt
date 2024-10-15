@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://elabiiqe.github.io/ApL/sitemap_index.txt.gz
+Sitemap: https://elabiiqe.github.io/gxJ/sitemap_index.txt.gz
+Sitemap: https://elabiiqe.github.io/lic/sitemap_index.txt.gz
+Sitemap: https://elabiiqe.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://elabiiqe.github.io/uRc/sitemap_index.txt.gz
+Sitemap: https://elabiiqe.github.io/yZi/sitemap_index.txt.gz
